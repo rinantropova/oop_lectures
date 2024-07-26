@@ -1,4 +1,4 @@
-package lect1.ex02;
+package ex02;
 
 public class program {
     static double distance(int x1, int y1, int x2, int y2) {

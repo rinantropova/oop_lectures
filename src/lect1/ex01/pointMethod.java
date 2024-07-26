@@ -1,4 +1,4 @@
-package lect1.ex01;
+package ex01;
 
 public class pointMethod {
     static double distance(int x1, int y1, int x2, int y2) {
